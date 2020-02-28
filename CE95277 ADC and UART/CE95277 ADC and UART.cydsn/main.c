@@ -46,6 +46,7 @@
 #define FALSE  0
 #define TRUE   1
 #define TRANSMIT_BUFFER_SIZE  16
+#define LIMIT  2000
 
     /* Variable to store ADC result */
     uint16 Output;
@@ -53,6 +54,7 @@
     uint8 ContinuouslySendData;
     uint8 SendSingleByte;
     uint8 SendEmulatedData;
+    uint16 counter_limit;
     /* Transmit Buffer */
     char TransmitBuffer[TRANSMIT_BUFFER_SIZE];
     /* Variable used to send emulated data */
@@ -84,6 +86,14 @@ CY_ISR(Transmit)
                 UART_1_PutString(TransmitBuffer);
                 /* Reset the send once flag */
                 SendSingleByte = FALSE;
+                if (counter_limit < LIMIT )
+                {
+                    counter_limit++;
+                }
+                else{
+                    ContinuouslySendData = FALSE;
+                }
+                
             }
             else if(SendEmulatedData)
             {
@@ -136,6 +146,7 @@ int main()
     SendSingleByte = FALSE;
     SendEmulatedData = FALSE;
     EmulatedData = 0;
+    counter_limit = 0;
     
     /* Start the ADC conversion */
     ADC_DelSig_1_StartConvert();
@@ -169,6 +180,7 @@ int main()
             case 'X':
             case 'x':
                 ContinuouslySendData = FALSE;
+                counter_limit = 0;
                 break;
             case 'E':
             case 'e':
