@@ -1,0 +1,7 @@
+C:\Users\ecsa\Desktop\79427527\CE95277 ADC and UART.cywrk.Archive01\CE95277 ADC and UART\CE95277 ADC and UART.cydsn\CE95277 ADC and UART.cyprj|747dc87b-5057-4c11-a64e-8aa3678590f4
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|0b0d0ff2-bad4-4d7b-bc48-66227737a325
+C:\Users\ecsa\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\Downloads ( 4.2).cyprj|29735907-d530-4f0b-9f24-5e6985ccbace
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|3b01a5fb-e0c0-45ce-aa47-a37271e866f5
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|1d946f48-8cc5-4f67-b05e-8a4660077e22
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|c36f1ee5-389b-4015-851c-e43af4dc8b18
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\default\CyReferenceLibrary\CyReferenceLibrary.cylib\CyReferenceLibrary.cyprj|4c89af7a-313c-47b5-be75-7c716c651b0a

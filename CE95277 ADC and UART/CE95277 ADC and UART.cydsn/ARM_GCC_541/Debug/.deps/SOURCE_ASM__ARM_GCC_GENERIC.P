@@ -1,0 +1,10 @@
+C:/Users/ecsa/Desktop/79427527/CE95277\ ADC\ and\ UART.cywrk.Archive01/CE95277\ ADC\ and\ UART/CE95277\ ADC\ and\ UART.cydsn/ARM_GCC_541/Debug/CyBootAsmGnu.o : C:/Users/ecsa/Desktop/79427527/CE95277\ ADC\ and\ UART.cywrk.Archive01/CE95277\ ADC\ and\ UART/CE95277\ ADC\ and\ UART.cydsn/Generated_Source/PSoC5/CyBootAsmGnu.s C:/Users/ecsa/Desktop/79427527/CE95277\ ADC\ and\ UART.cywrk.Archive01/CE95277\ ADC\ and\ UART/CE95277\ ADC\ and\ UART.cydsn/Generated_Source/PSoC5/cydevicegnu.inc C:/Users/ecsa/Desktop/79427527/CE95277\ ADC\ and\ UART.cywrk.Archive01/CE95277\ ADC\ and\ UART/CE95277\ ADC\ and\ UART.cydsn/Generated_Source/PSoC5/cydevicegnu_trm.inc C:/Users/ecsa/Desktop/79427527/CE95277\ ADC\ and\ UART.cywrk.Archive01/CE95277\ ADC\ and\ UART/CE95277\ ADC\ and\ UART.cydsn/Generated_Source/PSoC5/cyfittergnu.inc 
+
+C:/Users/ecsa/Desktop/79427527/CE95277\ ADC\ and\ UART.cywrk.Archive01/CE95277\ ADC\ and\ UART/CE95277\ ADC\ and\ UART.cydsn/Generated_Source/PSoC5/CyBootAsmGnu.s : 
+
+C:/Users/ecsa/Desktop/79427527/CE95277\ ADC\ and\ UART.cywrk.Archive01/CE95277\ ADC\ and\ UART/CE95277\ ADC\ and\ UART.cydsn/Generated_Source/PSoC5/cydevicegnu.inc : 
+
+C:/Users/ecsa/Desktop/79427527/CE95277\ ADC\ and\ UART.cywrk.Archive01/CE95277\ ADC\ and\ UART/CE95277\ ADC\ and\ UART.cydsn/Generated_Source/PSoC5/cydevicegnu_trm.inc : 
+
+C:/Users/ecsa/Desktop/79427527/CE95277\ ADC\ and\ UART.cywrk.Archive01/CE95277\ ADC\ and\ UART/CE95277\ ADC\ and\ UART.cydsn/Generated_Source/PSoC5/cyfittergnu.inc : 
+
